@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord-user-bots": "^2.0.3",
+    "ollama": "^0.6.2"
+  }
+}
